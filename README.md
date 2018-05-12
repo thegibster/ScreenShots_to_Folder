@@ -22,7 +22,7 @@ This project uses Python 3.6.3 with the follwing imports :
  
 * Python must be installed to run this script
 
-## Use the file titled "moveScreenshots.py"
+#### *** Use the file titled "moveScreenshots.py" ***
 
 ### Services provided
 1. Move file whose names begin with "Screen Shot" to be moved into a folder named Screenshots on the Desktop
