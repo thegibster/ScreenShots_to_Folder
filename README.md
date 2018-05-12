@@ -27,8 +27,12 @@ This project uses Python 3.6.3 with the follwing imports :
 ### Services provided
 1. Move file whose names begin with "Screen Shot" to be moved into a folder named Screenshots on the Desktop
 
+### To Run
+```bash
+python moveScreenshots.py
+```
 
-### Possible Issue
+### Possible Issues
 1. More testing on other systems
 2. Not enough error handling for possible race conditions
 
