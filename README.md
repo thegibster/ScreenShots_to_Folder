@@ -36,5 +36,8 @@ python moveScreenshots.py
 1. More testing on other systems
 2. Not enough error handling for possible race conditions
 
+### Possible Feature add
+1.Allow wild card search for files as well as folder to store it in
+
 
 
