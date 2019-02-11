@@ -2,7 +2,7 @@
 
 Move Screenshots
 This script aims to help de-clutter your desktop
-if you have a lot of "Screen Shot *" files by
+if you have a lot of "Screen Shot *" or "Screenshot" files by
 moving the files into a folder called Screenshots
 
 ### Setup
@@ -35,6 +35,7 @@ python moveScreenshots.py
 ### Possible Issues
 1. More testing on other systems
 2. Not enough error handling for possible race conditions
+3. Move executes and system may take a few momemts for the UI to update
 
 ### Possible Feature add
 1.Allow wild card search for files as well as folder to store it in
